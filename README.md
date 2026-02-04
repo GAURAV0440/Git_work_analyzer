@@ -87,12 +87,5 @@ All outputs are automatically saved to the output/ directory:
   ]
 }
 
-## Notes
-
-The tool works with any Git repository using Playwright-style .spec.ts tests
-
-Only impacted tests are reported to minimize test execution time
-
-Designed as a CLI-first utility for developer workflows
 
 
