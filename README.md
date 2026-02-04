@@ -6,6 +6,8 @@ It supports both direct test file changes and indirect impacts caused by shared 
 This tool is designed to help quickly identify which tests need to be run instead of executing the full test suite.
 
 ---
+## Loom Video Link
+https://www.loom.com/share/42d2296c3ae44cab813747434b2b4996
 
 ## Problem Statement
 
