@@ -1,4 +1,4 @@
-# Git Commit Impact Analyzer
+# Git Work Analyzer
 
 A CLI tool that analyzes a Git commit and reports which Playwright tests are impacted by that change.  
 It supports both direct test file changes and indirect impacts caused by shared helper or fixture updates.
